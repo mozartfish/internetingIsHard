@@ -1,0 +1,37 @@
+body {
+    /* color: #FF0000; */
+    /* color: #414141; Dark gray */
+    color: #414141; /* Dar Gray */
+    background-color: #EEEEEE; /*Light Gray */
+    font-size: 18px;
+}
+h1 {
+    /* font-family: "Helvetica", "Arial", sans-serif; */
+    font-size: 2em; /* h1 elements should be twice the size of body font size */
+}
+h2 {
+    /* font-family: "Helvetica", "Arial", sans-serif; */
+    font-size: 1.6em; /* h2 elements should be 1.6 times the size of body font size */
+}
+h1, h2, h3, h4, h5, h6 {
+        font-family: "Helvetica", "Arial", sans-serif;
+        font-weight: normal;
+    }
+
+/* List Styles */
+ u1 {
+    list-style-type: circle;
+ }
+ ol {
+    list-style-type: lower-roman;
+ }
+
+ /* Underlines */
+ a {
+    text-decoration: none;
+ }
+
+ /* Text Alignment */
+ p {
+    text-align: left;
+ }
